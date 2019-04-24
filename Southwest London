@@ -4,8 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>SouthwestLondon</title>
-	<link rel="stylesheet" href="css/layout.css" media="screen/> 
-</head>
+	<link href="css/layout.css" rel="stylesheet"/>
 
 <body>
 <header>
