@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>NortheastLondon</title>
+	<link rel="stylesheet" href="css/layout.css" media="screen/> 
+</head>
+
+<body>
+<header>
+<h1>Northeast London</h1>
+</header>	
+
+<section>
+    <h1>Fanshawe Pioneer Village</h1>
+<p><img src="images/pioneervillage.jpg"width="200" height="250" alt="Pioneer Village"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna. Vestibulum lectus mauris ultrices eros in cursus turpis. Turpis cursus in hac habitasse platea. Mauris sit amet massa vitae tortor. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Eget velit aliquet sagittis id consectetur purus. Amet consectetur adipiscing elit ut aliquam. Accumsan sit amet nulla facilisi morbi. Mus mauris vitae ultricies leo. Fermentum dui faucibus in ornare quam viverra orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Odio pellentesque diam volutpat commodo sed. Nunc non blandit massa enim nec. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Sit amet facilisis magna etiam tempor orci.
+
+Non diam phasellus vestibulum lorem sed risus ultricies tristique. In hac habitasse platea dictumst vestibulum rhoncus. Sit amet luctus venenatis lectus magna. At ultrices mi tempus imperdiet nulla. Ullamcorper eget nulla facilisi etiam dignissim diam. Egestas congue quisque egestas diam in arcu cursus euismod. Augue eget arcu dictum varius. Nam libero justo laoreet sit amet cursus sit amet dictum. Dignissim convallis aenean et tortor at risus viverra. Odio ut sem nulla pharetra diam sit. Nisi scelerisque eu ultrices vitae auctor eu. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Congue eu consequat ac felis donec et.
+<div class="wrapper">
+	<div class="box a">Weddings</div>
+	<div class="box b">Upcoming Events</div>
+</div>
+</section>
+
+<aside>
+
+<h1>Fanshawe Conservation Area</h1>
+	
+<p><img src="images/fanshaweconservation.jpg" width="200" height="250" alt="Fanshawe Conservation"/>Imperdiet dui accumsan sit amet nulla. Urna molestie at elementum eu facilisis. Enim ut tellus elementum sagittis vitae et leo. Pretium aenean pharetra magna ac placerat vestibulum lectus. Mattis nunc sed blandit libero volutpat sed cras. Leo integer malesuada nunc vel risus commodo viverra. Sed turpis tincidunt id aliquet risus feugiat in ante. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Imperdiet nulla malesuada pellentesque elit eget gravida. Blandit cursus risus at ultrices mi tempus. Consectetur adipiscing elit ut aliquam purus. Suscipit tellus mauris a diam maecenas. Nunc id cursus metus aliquam eleifend mi in nulla. Aliquet eget sit amet tellus cras.
+
+Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Natoque penatibus et magnis dis parturient montes nascetur. Ultrices dui sapien eget mi proin sed libero. Quis varius quam quisque id diam vel quam. Sit amet venenatis urna cursus. Tortor vitae purus faucibus ornare suspendisse. Porttitor massa id neque aliquam. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Elementum integer enim neque volutpat ac. Iaculis at erat pellentesque adipiscing commodo. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Feugiat scelerisque varius morbi enim nunc. Ultrices vitae auctor eu augue ut. Enim praesent elementum facilisis leo. Non blandit massa enim nec dui. Non nisi est sit amet facilisis magna etiam tempor orci. Nunc consequat interdum varius sit. In fermentum et sollicitudin ac orci phasellus.</p>
+
+	<div class="wrapper">
+<div class="box a">Seasonal Camping</div>
+<div class="box b">Park Fees</div>
+<div class="box c">Trails</div>
+<div class="box e">Fishing & Boating</div>
+</div>
+
+</aside>
+</div>
+<footer>
+
+</footer>
+</body>
+</html>
