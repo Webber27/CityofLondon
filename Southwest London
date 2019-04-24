@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>SouthwestLondon</title>
+	<link rel="stylesheet" href="css/layout.css" media="screen/> 
+</head>
+
+<body>
+<header>
+<h1>Southwest London</h1>
+</header>
+	
+
+<section>
+
+<h1>Springbank Park</h1>
+
+<p><img src="images/storybookgardens.jpg"width="200" height="250" alt="storybookgardens"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Suscipit adipiscing bibendum est ultricies. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Hendrerit dolor magna eget est lorem ipsum dolor. Sed turpis tincidunt id aliquet risus. Gravida neque convallis a cras semper auctor. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Id velit ut tortor pretium viverra suspendisse. Dolor purus non enim praesent elementum facilisis leo vel fringilla. Amet mattis vulputate enim nulla. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Vel elit scelerisque mauris pellentesque pulvinar pellentesque. Ac odio tempor orci dapibus ultrices in iaculis nunc. Mi bibendum neque egestas congue quisque egestas diam.</p>
+	
+<div class="wrapper">
+	<div class="box a">Storybook Gardens</div>
+	<div class="box b">Storybook Special Events</div>
+	<div class="box c">Special Concert Events</div>
+</div>
+</section>
+
+<aside>
+
+<h1>Boler Mountain</h1>
+	
+<p><img src="images/bolermountain.jpg" width="200" height="250" alt="boler"/>Ornare arcu dui vivamus arcu felis bibendum ut tristique. Lectus quam id leo in vitae turpis massa sed. Eu augue ut lectus arcu bibendum at varius. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Cum sociis natoque penatibus et magnis. Lacus sed turpis tincidunt id aliquet risus feugiat in. Risus nec feugiat in fermentum posuere. Sed turpis tincidunt id aliquet risus feugiat in ante. Proin fermentum leo vel orci porta. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Magna eget est lorem ipsum dolor sit amet consectetur. Amet consectetur adipiscing elit pellentesque habitant morbi tristique. In pellentesque massa placerat duis. Sapien faucibus et molestie ac. Auctor urna nunc id cursus metus aliquam eleifend mi in. Ornare massa eget egestas purus viverra.
+
+At consectetur lorem donec massa. Lorem mollis aliquam ut porttitor. Morbi non arcu risus quis varius. Porttitor eget dolor morbi non arcu. Interdum consectetur libero id faucibus nisl tincidunt. Nullam vehicula ipsum a arcu cursus vitae congue. Dictum non consectetur a erat nam at lectus. Ut porttitor leo a diam sollicitudin tempor id eu. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Fringilla urna porttitor rhoncus dolor purus non enim. Aliquam purus sit amet luctus venenatis. Odio pellentesque diam volutpat commodo sed.
+
+Eu volutpat odio facilisis mauris sit amet massa. Lobortis feugiat vivamus at augue eget arcu dictum varius. Nisl purus in mollis nunc sed id semper risus. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Lorem mollis aliquam ut porttitor. Dolor sit amet consectetur adipiscing elit duis. Vitae congue mauris rhoncus aenean vel elit. Nisi scelerisque eu ultrices vitae auctor eu augue. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere. Eget gravida cum sociis natoque penatibus et. Mus mauris vitae ultricies leo. Eu ultrices vitae auctor eu. In ante metus dictum at tempor commodo ullamcorper a.</p>
+
+	
+<div class="wrapper">
+	<div class="box a">Winter Fun</div>
+	<div class="box b">Skiing</div>
+	<div class="box c">Snowboarding</div>
+	<div class="box d">Tubing</div>
+	<div class="box e">Green Fun</div>
+	<div class="box f">Volleyball</div>
+	<div class="box g">Ziplining</div>
+</div>
+</aside>
+  
+<footer>
+
+</footer>
+</body>
+</html>
