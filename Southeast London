@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>SoutheastLondon</title>
+	<link rel="stylesheet" href="css/layout.css" media="screen/>
+</head>
+
+<body>
+<header>
+<h1>Southeast London</h1>
+</header>	
+
+
+<section>
+
+<h1>Westminster Ponds</h1>
+
+<p><img src="images/westminsterponds.jpg"width="200" height="250" alt="bakery goods"/>Sit amet justo donec enim diam vulputate ut. In fermentum posuere urna nec tincidunt. Cursus in hac habitasse platea dictumst quisque sagittis purus. Ut eu sem integer vitae. Dignissim enim sit amet venenatis urna cursus eget nunc. Pulvinar elementum integer enim neque volutpat ac tincidunt. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tincidunt praesent semper feugiat nibh sed pulvinar. Duis at tellus at urna condimentum mattis pellentesque id nibh. Dolor magna eget est lorem. Tortor at risus viverra adipiscing at. Tellus orci ac auctor augue mauris augue neque gravida in. Euismod lacinia at quis risus sed vulputate. Integer quis auctor elit sed vulputate mi sit amet mauris. Donec enim diam vulputate ut pharetra sit amet aliquam id. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Sit amet tellus cras adipiscing enim eu turpis. Vitae auctor eu augue ut lectus arcu. Massa vitae tortor condimentum lacinia quis.
+
+Id cursus metus aliquam eleifend mi in nulla posuere. Etiam erat velit scelerisque in dictum non consectetur a erat. Risus in hendrerit gravida rutrum. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Egestas quis ipsum suspendisse ultrices gravida dictum fusce. Egestas dui id ornare arcu odio. Porttitor rhoncus dolor purus non enim praesent elementum. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Libero volutpat sed cras ornare arcu dui. Ullamcorper sit amet risus nullam eget felis. Vulputate enim nulla aliquet porttitor lacus luctus. Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse. Habitant morbi tristique senectus et. Nec dui nunc mattis enim. Placerat in egestas erat imperdiet sed euismod nisi porta. Lectus quam id leo in vitae turpis massa sed. </p>
+	
+<div class="wrapper">
+	<div class="box a">Westminster Ponds</div>
+	<div class="box b">Pond Mills</div>
+	<div class="box c">Walking Trails</div>
+</div>
+</section>
+
+
+<aside>
+
+<h1>East Park Gardens</h1>
+
+<p><img src="images/Eastpark.jpg" width="200" height="250" alt="truck"/>Ultrices neque ornare aenean euismod elementum. Facilisis leo vel fringilla est ullamcorper eget nulla. Enim nulla aliquet porttitor lacus. Morbi tristique senectus et netus et malesuada fames ac turpis. Est ullamcorper eget nulla facilisi. Facilisi etiam dignissim diam quis enim lobortis. Lorem ipsum dolor sit amet. Erat pellentesque adipiscing commodo elit at. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Etiam erat velit scelerisque in dictum. Turpis egestas pretium aenean pharetra magna ac. Pretium quam vulputate dignissim suspendisse.
+
+Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Libero enim sed faucibus turpis in. Leo urna molestie at elementum eu facilisis. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Tortor at auctor urna nunc id. Nunc sed velit dignissim sodales ut eu. Semper feugiat nibh sed pulvinar. Nunc sed velit dignissim sodales. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Eget mauris pharetra et ultrices neque ornare. </p>
+	
+<div class="wrapper">
+	<div class="box a">Golf</div>
+	<div class="box b">Mini Golf</div>
+	<div class="box c">Water Slides</div>
+	<div class="box d">Wave Pool</div>
+	<div class="box e">Go Karts</div>
+	<div class="box f">Batting Cages</div>
+	<div class="box g">Rock Climbing</div>
+</div>
+
+</aside>
+</div>
+<footer>
+
+</footer>
+</body>
+</html>
