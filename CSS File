@@ -1,9 +1,12 @@
 body {
 	font: 14px/1.4 Georgia, sans-serif;
 	margin: 300;
-	background: url("images/viewfromthetop.jpg");
-	height: 10px;
+	height: 100px;
+	/* Handle the placement of the background image in all of the html files */
+	background-image: url("viewfromthetop.jpg");
+	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-size: cover;
 }
 
 header {
@@ -27,6 +30,7 @@ header {
 	text-shadow: 3px 3px #666;
 	padding-left: 1%;
 }
+
 
 
 h2 {
@@ -102,6 +106,7 @@ nav a {
     opacity: 0;
     visibility: hidden;
     position: absolute;
+/* Handle the placement of the dropdown menu */
     top: 120px;
     left: 0;
     z-index: 1;    
@@ -216,6 +221,22 @@ aside img {
 .box:nth-child(even) {
 	background-color: #203d1d;
 	color: #fff;
+}
+sections {
+	width: 89%;
+	float: right;
+	width: 96%;
+	border: 1px solid black;
+	border-radius: 25px;
+	padding: 2px 2px 2px 2px;
+	background-color: #aaa9a9;
+}
+
+sections img {
+	float: left;
+	padding-right: 7%;
+	padding-bottom: 10%;
+	margin: 1px 1px 1px 1px;
 }
 
 @media screen and (max-width: 768px) {
@@ -354,4 +375,3 @@ aside img {
 	footer a {
 	font: 15px/5 Impact, sans-serif;
 	}
-}
